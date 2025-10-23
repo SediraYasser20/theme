@@ -1,0 +1,40 @@
+[12-Sep-2025 01:00:53 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[13-Sep-2025 17:57:16 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[20-Sep-2025 19:50:03 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[25-Sep-2025 11:42:15 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[26-Sep-2025 23:33:53 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[08-Oct-2025 21:28:38 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[10-Oct-2025 02:30:26 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[19-Oct-2025 17:41:23 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[20-Oct-2025 21:18:16 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
+[23-Oct-2025 12:18:38 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/inform34/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inform34/public_html/wp-content/themes/woodmart/index.php on line 11
